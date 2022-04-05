@@ -14,7 +14,7 @@
 >
 > $pkg install imagemagick
 >
-> $git clone https://github.com/RzLModz/V6
+> $git clone https://github.com/botwahendra/V6
 >
 > $cd V6
 >
